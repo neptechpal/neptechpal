@@ -20,7 +20,7 @@
 - [[part 2] How to scrape website using python, make an api and host it ?](https://www.youtube.com/watch?v=tA91h6lseTI)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -49,7 +49,7 @@
 
 
 
-<a href="https://app.daily.dev/neptechpal"><img src="https://api.daily.dev/devcards/fb5b92f04abc410f90827e54d3f5ab1d.png?r=2e2" width="400" alt="Bibek Acharya's Dev Card"/></a>
+<a href="https://app.daily.dev/neptechpal"><img src="https://api.daily.dev/devcards/fb5b92f04abc410f90827e54d3f5ab1d.png?r=2e2" width="200" alt="Bibek Acharya's Dev Card"/></a>
 
 <!--
 **neptechpal/neptechpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
