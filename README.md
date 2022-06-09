@@ -10,13 +10,9 @@
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **neptechpal355@gmail.com**
-
+### Recent Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Docker Con 2022 - Learning in public VS learning in private](https://www.youtube.com/watch?v=mmtjF1t-z6I)
-- [Teaching is a Passion | Maximilian Schwarzmüller](https://www.youtube.com/watch?v=efiGLnvy2K0)
-- [How to build an Open Source Project - Johan Eliasson - CEO of NHost](https://www.youtube.com/watch?v=1eDp7zmzD5U)
-- [🟣How to get a Job in Tech - Twitter Space](https://www.youtube.com/watch?v=D5fL32LHeIc)
-- [How to get a job in Web3 | Eda Akturk](https://www.youtube.com/watch?v=J6UiyoGFOxw)
+
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
 
 ### Blogs posts
