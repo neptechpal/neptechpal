@@ -13,11 +13,11 @@
 ## <a href="https://www.youtube.com/c/Tech101Nepal"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>Recent Videos on YouTube
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How to setup firebase in your flutter app?](https://www.youtube.com/watch?v=BggQMgCOSBE)
 - [How to make Carousel Slider in Flutter without using any package? || Flutter Carousel tutorial](https://www.youtube.com/watch?v=_5TjMyQ7TT4)
 - [How to integrate onesignal push notification in flutter app?](https://www.youtube.com/watch?v=J0G3avA2F-4)
 - [How to install Wordpress on local host?](https://www.youtube.com/watch?v=y_UvAVXvfpk)
 - [Rest API integration in Flutter || Build News app from scratch](https://www.youtube.com/watch?v=avd6pVSyLs8)
-- [[part 3] How to scrape website using python, make an api and host it ?](https://www.youtube.com/watch?v=KaRfagqoeuc)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
 
 <!-- ### Blogs posts -->
